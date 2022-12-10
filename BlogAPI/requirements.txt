@@ -3,3 +3,4 @@ djangorestframework
 whitenoise
 django-cors-headers
 dj-rest-auth
+drf-spectacular
