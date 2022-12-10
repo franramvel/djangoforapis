@@ -1,3 +1,5 @@
 django
 djangorestframework
 whitenoise
+django-cors-headers
+dj-rest-auth
